@@ -72,8 +72,8 @@ const ThankYou = () => {
               You made a great choice!
             </h4>
             <p className="mt-2 text-sm text-zinc-600">
-              We at CaseCobra believe that a phone case doesn&#39;t only need to
-              look good, but also last you for the years to come. We offer a
+              We at Gadgets-ania believe that a phone case doesn&#39;t only need
+              to look good, but also last you for the years to come. We offer a
               5-year print guarantee: If you case isn&#39;t of the highest
               quality, we&#39;ll replace it for free.
             </p>

@@ -80,11 +80,7 @@ const OrderReceivedEmail = ({
           <Section style={paddingY}>
             <Row>
               <Text
-                style={{
-                  ...footer.text,
-                  paddingTop: 30,
-                  paddingBottom: 30,
-                }}
+                style={{ ...footer.text, paddingTop: 30, paddingBottom: 30 }}
               >
                 Please contact us if you have any questions. (If you reply to
                 this email, we won't be able to see it.)
@@ -92,7 +88,7 @@ const OrderReceivedEmail = ({
             </Row>
             <Row>
               <Text style={footer.text}>
-                © CaseCobra, Inc. All Rights Reserved.
+                © Gadgets-Mania, Inc. All Rights Reserved.
               </Text>
             </Row>
           </Section>
