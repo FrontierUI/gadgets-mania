@@ -3,9 +3,7 @@ import { db } from '@/db';
 import DesignConfigurator from './DesignConfigurator';
 
 interface PageProps {
-  searchParams: {
-    [key: string]: string | string[] | undefined;
-  };
+  searchParams: { [key: string]: string | string[] | undefined };
 }
 
 const Page = async ({ searchParams }: PageProps) => {

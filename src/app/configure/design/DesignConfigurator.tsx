@@ -384,6 +384,8 @@ const DesignConfigurator = ({
                 size="sm"
                 className="w-full"
                 loadingText="Saving"
+                isLoading={isPending}
+                disabled={isPending}
                 onClick={() =>
                   saveConfig({
                     configId,
